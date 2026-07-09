@@ -1,1 +1,10 @@
-Python is a powerful and easy to learn language. It has efficient high level data structure and effective apporach to OOP. It has dynaic typing, elegant syntax together with its interpreted nature.
+Python is a powerful and easy to learn language. 
+It has efficient high level data structure and effective apporach to OOP. It has dynamic typing, elegant syntax together with its interpreted nature.
+
+
+Python is completely free to download and use, and you can share it with anyone — no license fees involved. It also comes packed with built-in tools for common tasks, plus you can find tons of extra free add-ons on python.org made by other developers.
+If you need extra speed, programmers can write parts of Python in C or C++ and plug them in like a turbocharger. 
+And other software (like Blender or GIMP) can embed Python inside itself, so users can customize that software using simple Python scripts instead of complex code.
+
+Python can either take commands one-by-one live (interactive mode, good for testing small things) or run a whole saved file at once (script mode, good for real programs) 
+and by default it assumes your code files use UTF-8 so you can freely use text from any language.
